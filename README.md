@@ -1,5 +1,5 @@
 # BandcampDLs
 A command line tool for downloading music off of bandcamp
 
-To Run:
+### To Run:
 python bandcamp-dl.py
